@@ -1,30 +1,20 @@
-### 关于 TELL餮儿 | About TELLTEAR
+### 关于 森钢
 
-【中文】  
-大家都叫我餮儿。  
-小时候听故事，饕餮是一只吃到停不下来的小怪兽；  
-长大才发现，它其实住在每个人的胃里——  
-贪一口甜，再贪一口辣，最后连“够了”都听不见。  
-我把这名字挂在耳边，像系一根细绳：  
-饿的时候，它提醒我去吃；  
-饱的时候，它提醒我去停。  
-于是，每一次开口，都是对自己的温柔问候：  
-“嘿，别急，留点位置给明天。”
+**我叫森钢本域名的域主。**
 
-【English】  
-Friends call me Tiao-er.  
-When I was little, Taotie was just a fairy-tale glutton who gobbled up everything—  
-including himself.  
-Growing up, I realized he actually lives in all our tummies:  
-one more spoon of sweet, one more bite of spice,  
-until “enough” becomes the hardest word to hear.  
-I wear the name like a soft string around my wrist:  
-it tugs me toward the table when I’m hungry,  
-and back into my chair when I’m full.  
-So every time I open my mouth, it’s a quiet promise:  
-“Slow down—save a little space for tomorrow.”
+某年某月，一位先生摊开我的生辰。他说缺木，缺金。我收下"森钢"二字，像收下两枚**补天的石子**——从此我知道：缺损不是深渊，是**等待被填满的形状**。
 
-📬 **Contact**  
-- Bluesky: [@TELL餮儿](https://bsky.app/profile/telltear.cn)  
+送一块口香糖。把嘴里正在甜的东西**递出去**，让两个人同时咀嚼同一种风味。
 
--  转载请注明出处 | Please credit when sharing.
+**这似乎是我活着的方式。**
+
+---
+
+我喜欢嚼口香糖：
+如果是不完整的，所以你可以接着嚼
+尽管是褶皱的，用过的，但折痕指向真实的地方
+但为了让你知道，这糖曾经存在过
+
+---
+
+如果你也相信**嘴里有糖的人，更适合说话**，欢迎进来。门开着，炉火温着，我手里那块刚拆封的，**是给你的**。
