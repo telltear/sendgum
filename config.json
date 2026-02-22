@@ -3,12 +3,12 @@
   "subTitle": "我是给你递口香糖的那个人吗？",
   "avatarUrl": "https://radiouniverse.cc/file/Df6bbO5z.webp",
   "GMEEK_VERSION": "last",
-  "allHead": "<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js '></script><script>document.addEventListener('DOMContentLoaded',function(){const a=document.querySelector('a[title=\"Issue\"]');a&&a.remove()});</script>",
+  "allHead": "<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script><script>document.addEventListener('DOMContentLoaded',function(){const a=document.querySelector('a[title=\"Issue\"]');a&&a.remove()});</script>",
   "themeMode": "fix",
   "dayTheme": "light",
   "nightTheme": "light",
-  "indexStyle": "<style>:root { --color-canvas-default: #ffffff !important; --color-canvas-subtle: #fff5f7 !important; --color-fg-default: #5a3a3a !important; --color-accent-fg: #ff6b8a !important; --color-accent-emphasis: #ff4757 !important; --color-border-default: #ffdde1 !important; } body { background-color: #fff0f3 !important; background-image: radial-gradient(#ffdde1 1px, transparent 1px) !important; background-size: 20px 20px !important; } .avatar { border: 4px solid #ff6b8a !important; border-radius: 50% !important; box-shadow: 0 4px 15px rgba(255,107,138,0.3) !important; transition: transform 0.3s !important; } .avatar:hover { transform: scale(1.1) rotate(5deg) !important; } .btn { background-color: #ff6b8a !important; border: none !important; border-radius: 20px !important; padding: 8px 20px !important; color: white !important; font-weight: bold !important; } .post-title { color: #ff4757 !important; }</style>",
-  "style": "<style>:root { --color-canvas-default: #ffffff !important; --color-canvas-subtle: #fff5f7 !important; --color-fg-default: #5a3a3a !important; --color-accent-fg: #ff6b8a !important; } body { background-color: #fff0f3 !important; } .markdown-body a { color: #ff6b8a !important; font-weight: 600 !important; } .markdown-body h1 { color: #ff4757 !important; border-bottom: 3px solid #ffdde1 !important; padding-bottom: 10px !important; } .markdown-body blockquote { background: #fff5f7 !important; border-left: 4px solid #ff6b8a !important; }</style>",
+  "indexStyle": "<style>:root { --color-canvas-default: rgba(255,255,255,0.85) !important; --color-canvas-subtle: #fff5f7 !important; --color-fg-default: #5a3a3a !important; --color-accent-fg: #ff6b8a !important; --color-accent-emphasis: #ff4757 !important; --color-border-default: #ffdde1 !important; } body { background-color: #fff0f3 !important; background-image: radial-gradient(#ffdde1 1px, transparent 1px) !important; background-size: 20px 20px !important; } .avatar { border: 4px solid #ff6b8a !important; border-radius: 50% !important; box-shadow: 0 4px 15px rgba(255,107,138,0.3) !important; transition: transform 0.3s !important; } .avatar:hover { transform: scale(1.1) rotate(5deg) !important; } .Box { background-color: rgba(255,255,255,0.85) !important; backdrop-filter: blur(10px) !important; border: 1px solid rgba(255,221,225,0.5) !important; border-radius: 12px !important; } .post-title { color: #ff4757 !important; } .post-list-item { background: rgba(255,255,255,0.6) !important; margin-bottom: 8px !important; border-radius: 8px !important; padding: 12px !important; transition: all 0.3s !important; } .post-list-item:hover { background: rgba(255,255,255,0.9) !important; transform: translateX(5px) !important; box-shadow: 0 2px 8px rgba(255,107,138,0.2) !important; }</style>",
+  "style": "<style>:root { --color-canvas-default: rgba(255,255,255,0.95) !important; --color-canvas-subtle: #fff5f7 !important; --color-fg-default: #5a3a3a !important; --color-accent-fg: #ff6b8a !important; } body { background-color: #fff0f3 !important; } .markdown-body a { color: #ff6b8a !important; font-weight: 600 !important; } .markdown-body h1 { color: #ff4757 !important; border-bottom: 3px solid #ffdde1 !important; padding-bottom: 10px !important; } .markdown-body blockquote { background: #fff5f7 !important; border-left: 4px solid #ff6b8a !important; }</style>",
   "script": "<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script><script src='https://fastly.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/autoload.js'></script><script src='https://cdn.jsdelivr.net/gh/yremp/yremp-js@1.5/sakura.js'></script>",
   "singlePage": ["about", "photo"],
   "iconList": {
@@ -19,12 +19,6 @@
   },
   "commentLabelColor": "#006b75",
   "bottomText": "转载请注明出处",
-  "primerCSS": "<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css ' rel='stylesheet' />",
+  "primerCSS": "<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
   "needComment": 1
 }
-    
-    
-    
-    
-    
-    
