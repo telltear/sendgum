@@ -3,12 +3,14 @@
   "subTitle": "宇宙里繁星无数，所有离别都是重逢的伏笔。",
   "avatarUrl": "https://radiouniverse.cc/file/Df6bbO5z.webp",
   "GMEEK_VERSION": "last",
+  "allHead": "<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
   "themeMode": "fix",
   "dayTheme": "light",
   "nightTheme": "light",
   "indexStyle": "<style>#header img.avatar { border: 4px solid #ff6b8a !important; border-radius: 50% !important; box-shadow: 0 4px 15px rgba(255,107,138,0.3) !important; } .postTitle { color: #ff4757 !important; } .postListItem { transition: all 0.3s ease !important; border-radius: 8px !important; margin-bottom: 8px !important; } .postListItem:hover { transform: translateX(5px) !important; } .Header-item:last-child { display: none !important; }</style>",
+  "indexScript": "<script>document.addEventListener('DOMContentLoaded',function(){const a=document.querySelector('a[title=\"Issue\"]');a&&a.remove();const rss=document.querySelector('a[href*=\"rss.xml\"]');if(rss)rss.parentElement.style.display='none';});</script>",
   "style": "<style>.markdown-body a { color: #ff6b8a !important; font-weight: 600 !important; } .markdown-body h1 { color: #ff4757 !important; border-bottom: 3px solid #ffdde1 !important; padding-bottom: 10px !important; } .markdown-body blockquote { background: #fff5f7 !important; border-left: 4px solid #ff6b8a !important; }</style>",
-  "script": "<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
+  "script": "<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
   "singlePage": ["about", "photo"],
   "iconList": {
     "photo": "M15 3c.55 0 1 .45 1 1v9c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1 0-.55.45-1 1-1h4c.55 0 1 .45 1 1Zm-4.5 9c1.94 0 3.5-1.56 3.5-3.5S12.44 5 10.5 5 7 6.56 7 8.5 8.56 12 10.5 12ZM13 8.5c0 1.38-1.13 2.5-2.5 2.5S8 9.87 8 8.5 9.13 6 10.5 6 13 7.13 13 8.5ZM6 5V4H2v1Z"
@@ -18,5 +20,6 @@
   },
   "commentLabelColor": "#006b75",
   "bottomText": "转载请注明出处",
+  "primerCSS": "<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
   "needComment": 0
 }
