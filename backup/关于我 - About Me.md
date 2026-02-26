@@ -10,7 +10,7 @@
 
 自然语言 / Natural Language: 中文（简体/繁體）> English
 
-_"这里有一些关于我想传递的讯息，宇宙之浩瀚我无法想象，生命之璀璨我感受深刻。几千万光年似乎太远，历史上不过几行，人类顽强生存，改造自然。如果还有一瞬间的热爱，请让我带你看这百年的光景。现在TA可能已经暗淡或者归入沉寂，和我一起观测TA几千年或者几百年的光景，好吗？"_ / _"There are some messages I'd like to convey: the vastness of the universe is beyond my imagination, yet the brilliance of life is something I feel deeply. Tens of millions of light-years may seem impossibly distant—barely a few lines in the grand history—yet humanity persists, resilient, reshaping nature itself. If there remains even a fleeting moment of passion, let me show you the scene of this century. Now, she may have already dimmed or faded into silence. Will you observe her with me—for thousands of years, or perhaps just a few hundred?"_
+_"这里有一些关于我想传递的讯息，宇宙之浩瀚我无法想象，生命之璀璨我感受深刻。几千万光年似乎太远，历史上不过几行，人类顽强生存，改造自然。如果还有一瞬间的热爱，请让我带你看这百年的光景, 现在那颗发光恒星可能已经暗淡或者归入沉寂，但总会有人记得的。"_ / _"Here is a message I wish to convey: the vastness of the universe is beyond my imagination, yet the brilliance of life I feel profoundly. Millions of light-years may seem impossibly distant—mere lines in the grand ledger of history—yet humanity persists, resilient, reshaping nature itself. If there remains but a fleeting moment of wonder, let me show you the panorama of this century. That luminous star may have already dimmed or faded into silence, but someone, somewhere, will remember."_
 
 ### 联系方式 / Links
 
